@@ -1,8 +1,8 @@
 # PDO DBLIB and PDO ODBC SQL Server Driver for Laravel 4.
 
 ## Requirements
-- PHP 5.3+
-- Laravel 4.2.*
+- PHP 7.2+
+- Laravel 6.0.*
 
 ## Installation
 Add `rui_mashita/laravel-dblib-odbc-sqlserver` as a requirement to composer.json:
